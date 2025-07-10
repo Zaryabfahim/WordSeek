@@ -79,11 +79,11 @@
 
 ## Additional Resources
 - **Try the Bot**:
-  - [WordSeek I](https://t.me/WordSeekBot) *(Main bot)*
-  - [WordSeek II](https://t.me/WordSeek2Bot) *(Use this if the main bot is busy)*
-- **Join the Official Group**: [Word Guesser Group](https://t.me/wordguesser) - Play the game, discuss strategies, and share feedback.
-- **Support the Developer**: [Binamra Bots Channel](https://t.me/BinamraBots)
-- **Contact the Developer**: Suggestions? Reach out on Telegram: [@binamralamsal](https://t.me/binamralamsal)
+  - [Kafka Honkai](https://t.me/kafka_xprobot) *(Main bot)*
+  - [Pookie Music Bot](https://t.me/Pookiemusicxbot) *(Use this for music)*
+- **Join the Official Group**: [Oblivion Empire](https://t.me/oblivionempire) - Play the game, discuss strategies, and share feedback.
+- **Support the Developer**: [Zaryab](https://t.me/pookie_updates)
+- **Contact the Developer**: Suggestions? Reach out on Telegram: [Zaryab](https://t.me/contactwhom)
 
 ## Contributing
 We welcome contributions to enhance the bot! Here's how you can help:
